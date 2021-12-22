@@ -5,7 +5,7 @@ if (4==4) {
    
 }
 
-const num = 50;
+//const num = 50;
 
 // if (num<49) {
 //     console.log('Error');
