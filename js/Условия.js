@@ -15,7 +15,7 @@ if (4==4) {
 //     console.log("OK");
 // }
 
-num == 50 ? console.log("OK"): console.log('Error');
+// num == 50 ? console.log("OK"): console.log('Error');
 
 
 const num = 49;
