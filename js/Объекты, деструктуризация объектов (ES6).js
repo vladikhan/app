@@ -3,7 +3,7 @@ const options={
     height: 1024,
     weight: 1024,
     colors: {
-        border: 'black',
+        border: 'black', 
         bg: 'red'
     },
     makeTest: function(){
